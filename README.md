@@ -8,10 +8,8 @@ This project focuses on analyzing SaaS revenue trends and identify key drivers i
 ## Project Objective: 
 To identify revenue trend, key revenue drivers and their impact on revenue
 
-## Dataset: 
+## Dataset and Tools: 
 Sourced from Kaggle (10,000 records)
-
-## Tools: 
-SQL & Power BI
+SQL and PowerBI
 
 
